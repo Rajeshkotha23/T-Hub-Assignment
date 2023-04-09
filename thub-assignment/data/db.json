@@ -1,0 +1,244 @@
+  {
+     "details":[
+    {
+      "userId": 1,
+      "id": 1,
+      "CandidateName": "RamPothineni",
+      "Email":"rampothineni@gmail.com",
+      "Mobile":"9848294732",
+      "Status":"Active"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "CandidateName": "Sreeleela",
+     "Email":"sreeleela@gmail.com",
+     "Mobile":"9475937583",
+     "Status":"Active"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "CandidateName": "RamCharan",
+      "Email":"charan@gmail.com",
+      "Mobile":"8396629572",
+      "Status":"Active"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "CandidateName": "Anupama",
+      "Email":"anu@gmail.com",
+      "Mobile":"9284926483",
+      "Status":"Inactive"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "CandidateName": "Ntr",
+    "Email":"ntr@gmail.com",
+    "Mobile":"9028432946",
+    "Status":"Active"
+    },
+    {
+      "userId": 2,
+      "id": 6,
+      "CandidateName": "Nithin",
+   "Email":"nithin@gmail.com",
+   "Mobile":"9394729380",
+   "Status":"Inactive"
+    },
+    {
+      "userId": 2,
+      "id": 7,
+      "CandidateName": "Samantha",
+      "Email":"samantha@gmail.com",
+      "Mobile":"9485374853",
+      "Status":"Active"
+    },
+    {
+      "userId": 2,
+      "id": 8,
+      "CandidateName": "Raashi",
+     "Email":"raashi@gmail.com",
+     "Mobile":"8595290426",
+     "Status":"Active"
+    },
+    {
+      "userId": 2,
+      "id": 9,
+      "CandidateName": "SaiPallavi",
+      "Email":"saipallavi@gmail.com",
+      "Mobile":"9018528537",
+      "Status":"Inactive"
+    },
+    {
+      "userId": 2,
+      "id": 10,
+      "CandidateName": "Alluarjun",
+   "Email":"alluarjun@gmail.com",
+   "Mobile":"8582633857",
+   "Status":"Active"
+    },
+    {
+      "userId": 3,
+      "id": 11,
+      "CandidateName": "MaheshBabu",
+   "Email":"maheshbabu@gmail.com",
+   "Mobile":"9595638446",
+   "Status":"Active"
+    },
+    {
+      "userId": 3,
+      "id": 12,
+      "CandidateName": "Nani",
+      "Email":"nani@gmail.com",
+      "Mobile":"8739128479",
+      "Status":"Inactive"
+    },
+    {
+      "userId": 3,
+      "id": 13,
+      "CandidateName": "Keerthy",
+     "Email":"nani@gmail.com",
+     "Mobile":"9529398292",
+     "Status":"Active"
+    },
+    {
+      "userId": 3,
+      "id": 14,
+      "CandidateName": "Vishwak",
+     "Email":"vishwak@gmail.com",
+     "Mobile":"9154328695",
+     "Status":"Active"
+    },
+    {
+      "userId": 3,
+      "id": 15,
+      "CandidateName": "Saidharam",
+     "Email":"saidharam@gmail.com",
+     "Mobile":"9452197393",
+     "Status":"Inactive"
+    },
+    {
+      "userId": 4,
+      "id": 16,
+      "CandidateName": "Pawankalyan",
+    "Email":"pawankalyan@gmail.com",
+    "Mobile":"9621948264",
+    "Status":"Inactive"
+    },
+    {
+      "userId": 4,
+      "id": 17,
+      "CandidateName": "Nivedha",
+   "Email":"nivedha@gmail.com",
+   "Mobile":"9532916392",
+   "Status":"Active"
+    },
+    {
+      "userId": 4,
+      "id": 18,
+      "CandidateName": "Kiran",
+     "Email":"kiran@gmail.com",
+     "Mobile":"7392738292",
+     "Status":"Inactive"
+    },
+    {
+      "userId": 4,
+      "id": 19,
+      "CandidateName": "Sidhu",
+     "Email":"sidhu@gmail.com",
+     "Mobile":"7823953943",
+     "Status":"Active"
+    },
+    {
+      "userId": 4,
+      "id": 20,
+      "CandidateName": "Nidhi",
+     "Email":"nidhi@gmail.com",
+     "Mobile":"8739530280",
+     "Status":"Active"
+    },
+    {
+      "userId": 5,
+      "id": 21,
+      "CandidateName": "Vijay",
+   "Email":"vijay@gmail.com",
+   "Mobile":"9820389376",
+   "Status":"Active"
+    },
+    {
+      "userId": 5,
+      "id": 22,
+      "CandidateName": "Nabha",
+     "Email":"nabha@gmail.com",
+     "Mobile":"698743865",
+     "Status":"Inactive"
+    },
+    {
+      "userId": 5,
+      "id": 23,
+      "CandidateName": "Mrunal",
+   "Email":"mrunal@gmail.com",
+   "Mobile":"879472945",
+   "Status":"Active"
+    },
+    {
+      "userId": 5,
+      "id": 24,
+      "CandidateName": "Dulquar",
+    "Email":"dulquar@gmail.com",
+    "Mobile":"897530287",
+    "Status":"Inactive"
+    },
+    {
+      "userId": 5,
+      "id": 25,
+      "CandidateName": "Surya",
+    "Email":"surya@gmail.com",
+    "Mobile":"9807621936",
+    "Status":"Inactive"
+    },
+    {
+      "userId": 6,
+      "id": 26,
+      "CandidateName": "Karthi",
+     "Email":"karthi@gmail.com",
+     "Mobile":"7659813738",
+     "Status":"Inactive"
+    },
+    {
+      "userId": 6,
+      "id": 27,
+      "CandidateName": "Nikhil",
+ "Email":"nikhil@gmail.com",
+ "Mobile":"9723995437",
+ "Status":"Active"
+    },
+    {
+      "userId": 6,
+      "id": 28,
+      "CandidateName": "Varuntej",
+   "Email":"varuntej@gmail.com",
+   "Mobile":"8896573428",
+   "Status":"Active"
+    },
+    {
+      "userId": 6,
+      "id": 29,
+      "CandidateName": "Sivakarthi",
+      "Email":"sivakarthi@gmail.com",
+      "Mobile":"9845736595",
+      "Status":"Inactive"
+    },
+    {
+      "userId": 6,
+      "id": 30,
+      "CandidateName": "Prabhas",
+     "Email":"prabhas@gmail.com",
+     "Mobile":"8906847585",
+     "Status":"Active"
+    }
+  ]
+}
